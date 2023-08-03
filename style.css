@@ -16,7 +16,6 @@ h1 {
 }
 
 body {
-
     padding: 1rem 5rem;
     font-family: 'Roboto', sans-serif;
     text-transform: capitalize;
@@ -208,6 +207,5 @@ main {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-}
-    
- }   
+      }
+}   
