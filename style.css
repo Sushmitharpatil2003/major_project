@@ -200,7 +200,7 @@ main {
         color: rgb(255, 250, 250);
     }
     body {
-
+    height:100%;
     padding: 1rem 5rem;
     font-family: 'Roboto', sans-serif;
     text-transform: capitalize;
